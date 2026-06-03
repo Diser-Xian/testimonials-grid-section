@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github source code](https://your-solution-url.com)
+- Live Site URL: [live site here]( https://diser-xian.github.io/testimonials-grid-section/)
 
 ## My process
   - Analize the design both desktop and mobile
@@ -104,6 +104,4 @@ Overall, AI was most helpful as a learning tool and debugging partner.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@XDEV](https://www.frontendmentor.io/profile/Xdev)
